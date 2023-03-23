@@ -1,5 +1,7 @@
 # crowdfunding_ETL
 
+## Contributers: Karen Fan, Alexis Fallow
+
 ## Resources
 - PgAdmin 4
 - Jupyter Notebook
