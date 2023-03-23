@@ -1,5 +1,10 @@
 # crowdfunding_ETL
 
+## Resources
+- PgAdmin 4
+- Jupyter Notebook
+- QuickDBD
+
 ## Instructions
 The instructions for this mini project are divided into the following subsections:
 
